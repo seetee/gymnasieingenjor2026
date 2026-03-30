@@ -1,13 +1,13 @@
 ---
 marp: true
-theme: default
+theme: Nord
 paginate: true
 ---
 
 # Your Presentation Title
 ## Subtitle or course name
 
-Your Name · 2026
+Kenneth Frantzen · 2026
 
 ---
 
@@ -29,7 +29,7 @@ You can use **bold**, *italic*, and `inline code`.
 
 ## A slide with an image
 
-![A descriptive alt text](./images/your-image.png)
+![A descriptive alt text]([./images/your-image.png](https://images.unsplash.com/photo-1516321497487-e288fb19713f)
 
 ---
 
@@ -44,7 +44,7 @@ You can use **bold**, *italic*, and `inline code`.
 - Point two
 
 </div>
-<div>
+<div style="background:hotpink;">
 
 ### Right column
 - Point three
